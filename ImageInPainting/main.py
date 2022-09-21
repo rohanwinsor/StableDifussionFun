@@ -1,8 +1,5 @@
-from io import BytesIO
 import gradio as gr
 from torch import autocast
-import requests
-import PIL
 import torch
 from diffusers import StableDiffusionInpaintPipeline as StableDiffusionInpaintPipeline
 

@@ -6,6 +6,6 @@ Collections of tools using stable diffusion
 #### Example
 ![](assets/Sketch2Image.png "Sketch2Image")
 
-### StableDiffusion InPaining
+### StableDiffusion In-Paining
 #### Example
-![](assets/StableDiffusionInPainting.png "InPaining")
+![](assets/StableDiffusionInPainting.png "In-Paining")
